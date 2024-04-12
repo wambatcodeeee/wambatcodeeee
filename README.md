@@ -2,7 +2,7 @@
 [![Wambatcodeeee's GitHub stats](https://github-readme-stats.vercel.app/api?username=wambatcodeeee)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wombatcode)](https://solved.ac/wombatcode/)
 <a href="https://github.com/devxb/gitanimals">
-    <img src = "https://render.gitanimals.org/lines/wambatcodeeee?pet-id=1" width="500" height="300"/>
+    <img src = "https://render.gitanimals.org/farms/wambatcodeeee"/>
 </a>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
