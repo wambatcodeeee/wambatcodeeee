@@ -1,6 +1,7 @@
 ### The Legend Of Wambatcodeeee's Github!! 👋
 [![Wambatcodeeee's GitHub stats](https://github-readme-stats.vercel.app/api?username=wambatcodeeee)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wombatcode)](https://solved.ac/wombatcode/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wombatcode)](https://solved.ac/wombatcode/) </br>
+[![gitanimals](https://render.gitanimals.org/farms/{wambatcodeeee})](https://github.com/devxb/gitanimals)
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
