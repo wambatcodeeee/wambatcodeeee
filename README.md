@@ -1,7 +1,6 @@
 ### The Legend Of Wambatcodeeee's Github!! 👋
 [![Wambatcodeeee's GitHub stats](https://github-readme-stats.vercel.app/api?username=wambatcodeeee)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wombatcode)](https://solved.ac/wombatcode/) </br>
-[![gitanimals](https://render.gitanimals.org/farms/{wambatcodeeee})](https://github.com/devxb/gitanimals)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wombatcode)](https://solved.ac/wombatcode/)
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
@@ -16,6 +15,7 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
 </p>
+
 
 
 <!--
