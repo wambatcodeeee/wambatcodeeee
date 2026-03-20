@@ -5,14 +5,14 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wambatcodeeee&show_icons=true"/>
 </p>
 
 ---
 
-### 🐔 GitHub Farm
+## 🐔 GitHub Farm
 <p align = "center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=wambatcodeeee&utm_content=farm">
   <img
