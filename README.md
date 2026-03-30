@@ -12,6 +12,16 @@
 
 ---
 
+## 🎯 Algorithm
+
+<p align="center">
+  <a href="https://solved.ac/wambatcode">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wombatcode" />
+  </a>
+</p>
+
+---
+
 ## 🐔 GitHub Farm
 <p align = "center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=wambatcodeeee&utm_content=farm">
